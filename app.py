@@ -6,7 +6,7 @@ import logging
 
 app = Flask(__name__)
 
-API_KEY = "AIzaSyAwXU7ogZMQ_naJ0DMAZd5m7y-25Zkv1aQ"
+API_KEY = "API_Key"
 
 logging.basicConfig(level=logging.DEBUG)
 
